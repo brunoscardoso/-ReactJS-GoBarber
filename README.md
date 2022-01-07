@@ -1,7 +1,5 @@
 #### GoBarber
 
-This project is a challenge to the challenges taken to reinforce students' knowledge of the Rocketseat full stack course.
-
 This project simulates a barbershop schedule, where you can create provider accounts and track their schedules in real time. 
 
 ### Instructions:
